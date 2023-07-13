@@ -1,6 +1,6 @@
 # PROJECTS_On_RESUME
 
-- 💚📱 First Project is Chuck Norris Jokes Website it is a fun and interactive platform that uses React.js to display jokes in various categories. It leverages Chuck Norris API to generate hilarious jokes featuring legendary Chuck Norris.
+- 💚📱 First Project is <strong>Chuck Norris Jokes Website</strong> it is a fun and interactive platform that uses React.js to display jokes in various categories. It leverages Chuck Norris API to generate hilarious jokes featuring legendary Chuck Norris.
 
 
 
