@@ -107,7 +107,7 @@ function App() {
         </div>
       </main>
       <footer className="footer">
-        <p className="footer-text">© 2023 Chuck Norris Jokes</p>
+        <p className="footer-text">© 2023 July 13 Chhavi's creation on Chuck Norris</p>
       </footer>
     </div>
   );
@@ -225,80 +225,3 @@ export default App;
 
 
 
-
-// import React, { useState, useEffect } from 'react';
-// import './App.css'; // Import the CSS file for styling
-
-// const ChuckNorrisApiUrl = 'https://api.chucknorris.io/jokes';
-// const ChuckNorrisCategoriesUrl = `${ChuckNorrisApiUrl}/categories`;
-// const ChuckNorrisRandomJokeUrl = `${ChuckNorrisApiUrl}/random`;
-
-// function App() {
-//   const [categories, setCategories] = useState([]);
-//   const [selectedCategory, setSelectedCategory] = useState('');
-//   const [joke, setJoke] = useState('');
-
-//   useEffect(() => {
-//     fetchCategories();
-//   }, []);
-
-//   const fetchCategories = async () => {
-//     try {
-//       const response = await fetch(ChuckNorrisCategoriesUrl);
-//       const data = await response.json();
-//       setCategories(data);
-//     } catch (error) {
-//       console.error('Error fetching categories:', error);
-//     }
-//   };
-
-//   const fetchRandomJoke = async () => {
-//     try {
-//       const response = await fetch(
-//         `${ChuckNorrisRandomJokeUrl}?category=${selectedCategory}`
-//       );
-//       const data = await response.json();
-//       setJoke(data.value);
-//     } catch (error) {
-//       console.error('Error fetching random joke:', error);
-//     }
-//   };
-
-//   const handleCategoryChange = (category) => {
-//     setSelectedCategory(category);
-//   };
-
-//   const handleGetJokeClick = () => {
-//     if (selectedCategory) {
-//       fetchRandomJoke();
-//     }
-//   };
-
-//   return (
-//     <div className="app-container">
-//       <h1>Chuck Norris Jokes</h1>
-//       <div>
-//         {categories.map((category) => (
-//           <button
-//             key={category}
-//             onClick={() => handleCategoryChange(category)}
-//             className={category === selectedCategory ? 'active' : ''}
-//           >
-//             {category}
-//           </button>
-//         ))}
-//       </div>
-//       <div>
-//         {selectedCategory && (
-//           <div>
-//             <h2>Joke in {selectedCategory}</h2>
-//             {joke ? <p>{joke}</p> : <p>No joke available.</p>}
-//             <button onClick={handleGetJokeClick}>Get Another Joke</button>
-//           </div>
-//         )}
-//       </div>
-//     </div>
-//   );
-// }
-
-// export default App;
