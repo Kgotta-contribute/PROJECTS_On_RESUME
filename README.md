@@ -15,19 +15,3 @@
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1423).png?raw=true" style="margin-right: 150px;">
 </br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Gifs were made using this website](https://ezgif.com/speed/ezgif-4-f389296878.gif)
