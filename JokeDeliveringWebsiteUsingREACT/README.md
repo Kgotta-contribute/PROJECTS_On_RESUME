@@ -1,4 +1,7 @@
 # PROJECTS_On_RESUME
+<br>
+Chuck Norris Jokes Website it is a fun and interactive platform that uses React.js to display jokes in various categories. It leverages Chuck Norris API to generate hilarious jokes featuring legendary Chuck Norris.
+<br>
 -<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/JokeDeliveringWebsiteUsingREACT/Screenshot1.png?raw=true" alt="Image Description" width="650" height="350">
 
 -[Link to my recorded Video or just watch the GIF I created Down Below](https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/JokeDeliveringWebsiteUsingREACT/WebsiteLooks.mp4)
