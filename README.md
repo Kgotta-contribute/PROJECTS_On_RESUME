@@ -2,7 +2,7 @@
 
 - 💚📱 First Project is <strong>Chuck Norris Jokes Website</strong> it is a fun and interactive platform that uses React.js to display jokes in various categories. It leverages Chuck Norris API to generate hilarious jokes featuring legendary Chuck Norris.
 <br>
-<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/JokeDeliveringWebsiteUsingREACT/Screenshot1.png?raw=true" alt="Image Description">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/JokeDeliveringWebsiteUsingREACT/Screenshot1.png?raw=true" alt="Image Description" width="650px" height="350px">
 </br>
 
 - Second Project is Travel Planner Web-App
