@@ -1,0 +1,348 @@
+npm init
+we gave this command in 1-node-farm wich created 'package.json' file & later after giving npm init we did enter sme values whch was asked in terminal
+
+eg-------------------------------:
+ npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.     
+
+Press ^C at any time to quit.
+package name: (1-node-farm) node-farm
+version: (1.0.0)                                      
+description: Learning node.js                         
+entry point: (index.js)                               
+test command:                                         
+git repository:                                       
+keywords:                                             
+author: Chhavi Verma                                  
+license: (ISC)                                        
+About to write to C:\New Volume D\TravelPlannerApp\1-node-farm\package.json:
+
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chhavi Verma",
+  "license": "ISC"
+}
+
+
+Is this OK? (yes) yes
+
+eg END----------------------------
+
+
+Then install 'slugify'(regular dependency) in '1.node-farm'
+npm install slugify
+
+Then install 'nodemon'(developer dependency) in '1.node-farm' -> " --save-dev " is done to save the devlopment dependency
+
+
+To do the npm installation globally do the below in terminal
+npm i nodemon --global
+or use this on MAC -> sudo npm i nodemon --global
+
+
+The benfit of using nodemon is that instead of giving 'node idex.js'
+we can give : -> 'nodemon index.js'
+
+Next we made this change in package.json file of main folder '1-node-farm':
+scripts": {
+    "start": "nodemon index.js"
+  },
+
+Above makes it easy to run programs by using below in terminal:
+npm run start 
+
+You can go to the below website for more syntaxes & ideas & knowledge
+https://www.npmjs.com/package/
+
+
+Installing express
+npm i express
+
+To uninstall expres becuase we dont need it use:
+npm uninstall express
+
+
+Never upload or  share the 'modules' folder as it can be installed by repeating all above installations & before that give the below installation:
+npm install
+
+
+So, whenever you share something on github do the below copulsorily:
+Always share your 'package.json' file & 'package-lock.json' file 
+As it helps in reconstructing the node-modules folder
+
+
+Use this to run your appication on browsers:
+http://127.0.0.1:8000/
+
+Module 3 is the most interesting one to use for knowledge
+
+We can check if the page is running or not in : https://www.natours.dev/api/v1/tours
+In the app 'Postman'
+
+
+
+Do this in every natours section:
+
+# This is for section 6:
+npm i express@4.17.2  or 4.15.2
+npm audit fix --force
+npm audit fix
+npm install winston
+npm fund
+npm i nodemon --save-dev
+
+nodemon app.js 
+
+
+
+In stater project of MadeFromVideoTut file, write this in integrated terminal:
+npm init
+in npm init of starter write 'app.js' in 'entry point' column
+
+
+in starter & final 
+npm install morgan 
+
+
+after changing everything to 'server.js' just write
+npm start
+in  terminal to run
+
+
+Write below url in browser to get the first page of the web app made:
+http://127.0.0.1:3000/overview.html
+
+
+for config.env file install below:
+npm i dotenv
+
+to run from now give this in terminal
+npm run start:prod 
+
+
+Then to run our dependency use
+npm run start:dev
+
+
+Then install these: 
+npm i eslint prettier eslint-config-prettier 
+eslint-plugin-prettier 
+eslint-config-airbnb eslint-plugin-node eslint-plugin-import 
+eslint-plugin-jsx-ally eslint-plugin-react --save-dev
+npm install eslint-plugin-jsx-a11y --save-dev
+
+
+To connect on powershell with mongodb do:
+1. cd 'C:\Program Files\MongoDB\Server\6.0\bin'
+2. dir
+3.    .\mongod.exe
+4. Open another powershell & write      cd 'C:\Program Files\MongoDB\Server\6.0\bin'
+5.    .\mongod.exe
+
+
+
+MongoShell connection string: 
+
+
+MongCompass App on windows connection sring:
+
+Later using mongo shell from mongosh folder & mongo application in exe from program files, you can enter connection string for shell & password
+Else open powershell type-> mongod.exe & enter your connection string for shell & password
+
+
+Mongo Application Nodejs Connection STring:
+
+Install: 
+npm install mongodb
+
+
+Install:
+npm i mongoose
+
+
+In video 8.13 we wrote this: 
+'
+const fs = require('fs');
+const mongoose = require('mongoose');
+const dotenv = require('dotenv');
+const Tour = require('./../../models/tourModel');
+
+dotenv.config({ path: './config.env' });
+
+const DB = process.env.DATABASE.replace(
+    '<PASSWORD>',
+    process.env.DATABASE_PASSWORD
+  );
+
+  mongoose
+  .connect(DB, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true, // Add this line
+    useCreateIndex: true,
+    useFindAndModify: false
+  })
+  .then(() => console.log('DB connection successful!'));
+
+  const tours = JSON.parse(fs.readFileSync(`${__dirname}/tours-simple.json`, 'utf-8'));
+
+// IMPORT DATA INTO DB
+const importData = async () => {
+  try {
+    await Tour.create(tours);
+    console.log('Data successfully loaded!');
+  } catch (err) {
+    console.log(err);
+  }
+};
+
+// DELETE ALL DATA FROM DB
+const deleteData = async () => {
+  try {
+    await Tour.deleteMany();
+    console.log('Data successfully deleted!');
+  } catch (err) {
+    console.log(err);
+  }
+};
+
+console.log(process.argv);
+
+'
+
+AFTER THAT E GAVE THIS COMMAND IN CONSOLE:
+node dev-data/data/import-dev-data.js
+the above should how DB conection successfull
+
+
+Then do this:
+node dev-data/data/import-dev-data.js --import
+
+Later we updated our code from above to work properly
+and gave below in terminal
+node dev-data/data/import-dev-data.js --delete
+
+The above returned:
+DB connection successful!
+Data successfully deleted!
+
+
+ie. code works properly
+
+
+INSTALL:
+npm i validator
+npm i ndb --save-dev
+
+
+Then write in terminal:
+npm run debug
+This opens a new debug terminal
+
+
+
+npm i bcryptjs
+npm install jsonwebtoken
+npm i -S jsonwebtoken
+npm i nodemailer
+
+
+SAVE THIS IN POSTMAN:
+Use POST :    127.0.0.1:3000/api/v1/users/signup 
+give this in body:
+{
+    "name": "chhavi",
+    "email" : "writeemail",
+    "password" : "12345",
+    "passwordConfirm" : "12345"
+}
+type with name 'Sign Up'
+
+
+
+Start checking fom 10th module video from starting when internet comes back 
+& start adding all postman stuff.
+
+
+Write this in postman:
+127.0.0.1:3000/api/v1/users/login
+In body write:
+{
+  "email":"hello@jonas.io"
+}
+and hit send
+To check write below also onec:
+{
+  "password":"test1234"
+}
+
+
+If above two indivudually return success then check below finally:
+{
+  "email":"hello@jonas.io",
+  "password":"test1234"
+}
+
+
+
+Later check if you are getting everything in 'Get All Users' in Postman
+You sould get success
+
+
+SET NODE_ENV=production
+nodemon server.js
+
+
+Watch from 10th module main video of 15 part, ie. 10.15
+only do this if you have any password problem happening by 
+written on 30-05-2023 9:42 am.
+
+
+Add this url in POST:
+{{URL}}/api/v1/users/deleteMe
+Set authorization as bearer token 
+Set the 'get' to 'delete' 
+
+npm i express-rate-limit
+npm i helmet
+npm i express-mongo-sanitize
+npm i xss-clean
+npm i hpp
+npm i cookie-parser
+npm i stripe
+npm i axios
+npm i @babel/polyfill
+npm i html-to-text
+npm i multer
+npm i sharp
+npm i pug 
+
+Then in terminal do this
+node ./dev-data/data/import-dev-data.js --delete
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
