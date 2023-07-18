@@ -1,35 +1,74 @@
 # PROJECTS_On_RESUME
 
-- 💚📱 First Project is <strong>Chuck Norris Jokes Website</strong> it is a fun and interactive platform that uses React.js to display jokes in various categories. It leverages Chuck Norris API to generate hilarious jokes featuring legendary Chuck Norris.
-
-- Second Project is a Travel Planner Web Applicaion that displays several travel tour packages & works somthing like MakeMyTrip website. Where user can book packages according to their likings. The map on any chosen tour page is the best one to add a difference to the webpage. This project is made using MERN stack.
-
+- 
 <br>
-<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/TravelPlanner App/blob/main/IMAGES/7.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1408).png?raw=true" alt="Image Description" style="margin-right: 150px;">
 </br>
 <br>
-<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/8.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1409).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
 </br>
 <br>
-<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/9.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1410).png?raw=true" alt="Image Description" style="margin-right: 150px;">
 </br>
 <br>
-<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/10.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1411).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
 </br>
 <br>
-<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/11.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1412).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
 </br>
 <br>
-<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/12.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1413).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
 </br>
 <br>
-<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/13.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1414).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
 </br>
 <br>
-<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/14.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1415).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
 </br>
 <br>
-<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/15.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1416).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1417).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1418).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1419).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1420).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1421).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1422).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1423).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1424).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1425).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1426).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1427).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1429).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1431).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/HOSTELseatMANAGINGsystem/Images/Screenshot%20(1432).png?raw=true" alt="Image Description" alt="Image Description" style="margin-right: 150px;">
 </br>
 
 
