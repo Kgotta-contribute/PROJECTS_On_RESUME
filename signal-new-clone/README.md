@@ -22,13 +22,13 @@
 </div>
  ## SCREENSHOTS OF WEB APP
 <div style="display: flex;">
-<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/3.png" alt="Image Description" width="350px" height="750px">
-<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/4.png" alt="Image Description" width="350px" height="750px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/3.png" alt="Image Description" width="400px" height="400px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/4.png" alt="Image Description" width="400px" height="400px">
 </div>
 
 <div style="display: flex;">
-<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/5.png" alt="Image Description" width="350px" height="750px">
-<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/6.png" alt="Image Description" width="350px" height="750px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/5.png" alt="Image Description" width="400px" height="400px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/6.png" alt="Image Description" width="400px" height="400px">
 </div>
 - Here's the list of commands that can help you move forward with the project
 
