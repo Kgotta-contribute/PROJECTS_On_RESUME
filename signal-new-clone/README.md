@@ -40,12 +40,12 @@
 
 ### - PUBLISHING ON firebase ( Run it in your root folder )
 
-firebase init
-firebase login
-web-build
-npm install -g eas-cli
-npx eas update
-expo publish
+- **firebase init**
+- **firebase login**
+- **web-build**
+- **npm install -g eas-cli**
+- **npx eas update**
+- **expo publish**
 
 ### - QR CODE HER: 
 ----------------------------------
