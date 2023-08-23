@@ -2,18 +2,15 @@
 
 - Here is my Signal Clone Application which is made using React Native, React JS and Firebase! ^_^
 ### - 💚📱 This is my SIGNAL CLONE that runs on ANDRID, iOS & WEB !
-<br>
-<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/ANDROID_SDK_GIF.gif" alt="Image Description" width="350px" height="750px">
-</br>
-
 
 <br>
 <br>
 <div style="display: flex;">
-<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/11.png" alt="Image Description" width="350px" height="750px">
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/12.png" alt="Image Description" width="350px" height="750px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/13.png" alt="Image Description" width="350px" height="750px">
 </div>
 <br>
+### - <strong>WELL THE FIRST ONE BELOW IS A GIF , Open to watch it over</strong>
 <div style="display: flex;">
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/ANDROID_SDK_GIF.gif" alt="Image Description" width="350px" height="750px">
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/8.png" alt="Image Description" width="350px" height="750px">
