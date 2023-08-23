@@ -208,16 +208,16 @@ yarn add react-native-screens@3.22.0
 ### - Recordings of how it Runs on Web & Android
 -----------------------------------------------
 <br>
-<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/Small_1_gif.gif" alt="Image Description" width="650px" height="450px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/Small_1_gif.gif" alt="Image Description" width="1080px" height="490px">
 </br>
 <br>
-<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/Small_2_gif.gif" alt="Image Description"width="650px" height="450px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/Small_2_gif.gif" alt="Image Description" width="1080px" height="490px">
 </br>
 <br>
-<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/ANdroid_1_gif.gif" alt="Image Description" width="650px" height="450px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/ANdroid_1_gif.gif" alt="Image Description" width="1080px" height="490px">
 </br>
 <br>
-<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/ANdroid_2_gif.gif" alt="Image Description" width="650px" height="450px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/ANdroid_2_gif.gif" alt="Image Description" width="1080px" height="490px">
 </br>
 
 ### - THANK YOU !! 😊😉😄😃
