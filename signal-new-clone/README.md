@@ -32,11 +32,12 @@
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/5.png" alt="Image Description" width="450px" height="550px">
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/6.png" alt="Image Description" width="450px" height="550px">
 </div>
---------------------------------------------
 
-- Here's the list of commands that can help you move forward with the project
 
-MOST PROMINENT TO BEGIN WITH -> 
+### - List of commands that can help you move forward with the project
+---------------------------------------------------
+
+MOST PROMINENT ONES TO BEGIN WITH -> 
 
 npm install -g expo-cli
 expo init signal-clone-yt
