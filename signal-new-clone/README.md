@@ -37,8 +37,29 @@
 ### - List of commands that can help you move forward with the project
 ---------------------------------------------------
 
-MOST PROMINENT ONES TO BEGIN WITH -> 
 
+### - PUBLISHING ON firebase ( Run it in your root folder )
+
+firebase init
+firebase login
+web-build
+npm install -g eas-cli
+npx eas update
+expo publish
+
+### - QR CODE HER: 
+----------------------------------
+ANDROID LINK -> exp://u.expo.dev/update/f418bf9b-21b0-466f-967a-1ada0a8a082d
+iOS LINK -> exp://u.expo.dev/update/b82137d2-e823-4951-9230-a1044c112ad1
+
+<div style="display: flex;">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/ANDROID_QR_CODE.png" alt="Image Description" width="450px" height="550px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/iOS_QR_CODE.png" alt="Image Description" width="450px" height="550px">
+</div>
+
+
+### - MOST PROMINENT ONES TO BEGIN WITH -> 
+---------------------------
 npm install -g expo-cli
 expo init signal-clone-yt
 npm install -g yarn
