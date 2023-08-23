@@ -21,7 +21,8 @@
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/10.png" alt="Image Description" width="350px" height="750px">
 </div>
 ```
-## SCREENSHOTS OF WEB APP
+### - SCREENSHOTS OF WEB APP
+```
 <div style="display: flex;">
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/3.png" alt="Image Description" width="450px" height="550px">
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/4.png" alt="Image Description" width="450px" height="550px">
