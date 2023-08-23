@@ -76,8 +76,6 @@ npm install -g yarn
    - **yarn**: yarn start
 
 3. yarn start --reset-cache
-   - **npm**: Not applicable
-   - **yarn**: Not applicable (yarn does not have a direct equivalent)
 
 4. yarn add @react-navigation/native
    - **npm**: npm install @react-navigation/native
@@ -141,7 +139,6 @@ npm install -g yarn
     - **npm**: npm install @expo/webpack-config
 
 21. npx expo install expo-status-bar@~1.4.4 react-native@0.71.8 react-native-web@~0.18.10
-    - **npm**: Not applicable
     
     npx expo install expo-status-bar@~1.4.4
     npx expo install react-native@0.71.8
@@ -160,7 +157,6 @@ npm install -g yarn
 
 25. npm cache clean --force
     - **npm**: npm cache clean --force
-    - **yarn**: Not applicable (yarn does not have an equivalent)
 
 26. expo r -c
     - **npm**: expo r -c
@@ -171,23 +167,19 @@ npm install -g yarn
     - **yarn**: yarn add @react-navigation/stack --legacy-peer-deps
 
 28. npx expo install react-native-reanimated@~3.3.0 --legacy-peer-deps
-    - **npm**: Not applicable
     - **yarn**: yarn add react-native-reanimated@~3.3.0 --legacy-peer-deps
 
 29. npm install react-native-gesture-handler --force
     - **npm**: npm install react-native-gesture-handler --force
-    - **yarn**: Not applicable (use yarn add instead of npm install)
 
 30. npm install react-native-gesture-handler --legacy-peer-deps
     - **npm**: npm install react-native-gesture-handler --legacy-peer-deps
     - **yarn**: yarn add react-native-gesture-handler --legacy-peer-deps
 
 31. npx expo install --fix
-    - **npm**: Not applicable
     - **yarn**: yarn expo install --fix
 
 32. npx expo install react-native-screens react-native-safe-area-context
-    - **npm**: Not applicable
     - **yarn**: yarn add react-native-screens react-native-safe-area-context
 
 33. yarn add @expo/webpack-config
