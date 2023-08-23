@@ -11,10 +11,9 @@
 </br>
 
 ### - Third Project is Signal Clone App using React Native, React js, Firebase etc.
-<div style="display: flex;">
-<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/12.png" alt="Image Description" width="350px" height="750px">
+<br>
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/ANDROID_SDK_GIF.gif" alt="Image Description" width="350px" height="750px">
-</div>
+</br>
 
 ### - Fourth Project is Hostel Seat Management System Web-App using MongoDB, MySql, Bootstrap, Html, Css, JS, PHP
 <br>
