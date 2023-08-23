@@ -204,6 +204,23 @@ yarn add react-native@0.72.4
 yarn add react-native-safe-area-context@4.6.3
 yarn add react-native-screens@3.22.0
 
+-
+### - Recordings of how it Runs on Web & Android
+-----------------------------------------------
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/Small_1_gif.gif" alt="Image Description" width="350px" height="750px">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/Small_2_gif.gif" alt="Image Description" width="350px" height="750px">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/ANdroid_1_gif.gif" alt="Image Description" width="350px" height="750px">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/ANdroid_2_gif.gif" alt="Image Description" width="350px" height="750px">
+</br>
+
+### - THANK YOU !! 😊😉😄😃
 
 
 
