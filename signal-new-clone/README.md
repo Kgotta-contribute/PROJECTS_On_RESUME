@@ -5,6 +5,20 @@
 <br>
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/ANDROID_SDK_GIF.gif" alt="Image Description" width="350px" height="750px">
 </br>
+
+
+<br>
+<br>
+<div style="display: flex;">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/11.png" alt="Image Description" width="350px" height="750px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/12.png" alt="Image Description" width="350px" height="750px">
+</div>
+<br>
+<div style="display: flex;">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/ANDROID_SDK_GIF.gif" alt="Image Description" width="350px" height="750px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/8.png" alt="Image Description" width="350px" height="750px">
+</div>
+
 - Here's the list of commands that can help you move forward with the project
 
 MOST PROMINENT TO BEGIN WITH -> 
