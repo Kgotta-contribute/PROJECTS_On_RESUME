@@ -49,17 +49,17 @@ expo publish
 
 ### - QR CODE HER: 
 ----------------------------------
-ANDROID LINK -> exp://u.expo.dev/update/f418bf9b-21b0-466f-967a-1ada0a8a082d
-iOS LINK -> exp://u.expo.dev/update/b82137d2-e823-4951-9230-a1044c112ad1
 
-[ANDROID LINK](exp://u.expo.dev/update/f418bf9b-21b0-466f-967a-1ada0a8a082d)
-[iOS LINK](exp://u.expo.dev/update/b82137d2-e823-4951-9230-a1044c112ad1)
+- 1. [ANDROID LINK](exp://u.expo.dev/update/f418bf9b-21b0-466f-967a-1ada0a8a082d)
+- 2. [iOS LINK](exp://u.expo.dev/update/b82137d2-e823-4951-9230-a1044c112ad1)
 
 <div style="display: flex;">
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/ANDROID_QR_CODE.png" alt="Image Description" width="300px" height="300px">
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/iOS_QR_CODE.png" alt="Image Description" width="300px" height="300px">
 </div>
 
+- ANDROID LINK -> exp://u.expo.dev/update/f418bf9b-21b0-466f-967a-1ada0a8a082d
+- iOS LINK -> exp://u.expo.dev/update/b82137d2-e823-4951-9230-a1044c112ad1
 
 ### - MOST PROMINENT ONES TO BEGIN WITH -> 
 ---------------------------
