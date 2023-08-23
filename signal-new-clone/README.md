@@ -10,12 +10,26 @@
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/13.png" alt="Image Description" width="350px" height="750px">
 </div>
 <br>
-### - <strong>WELL THE FIRST ONE BELOW IS A GIF , Open to watch it over</strong>
+### <strong>WELL THE FIRST ONE BELOW IS A GIF , Open to watch it over</strong>
 <div style="display: flex;">
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/ANDROID_SDK_GIF.gif" alt="Image Description" width="350px" height="750px">
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/8.png" alt="Image Description" width="350px" height="750px">
 </div>
 
+<div style="display: flex;">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/9.png" alt="Image Description" width="350px" height="750px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/10.png" alt="Image Description" width="350px" height="750px">
+</div>
+ ## SCREENSHOTS OF WEB APP
+<div style="display: flex;">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/3.png" alt="Image Description" width="350px" height="750px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/4.png" alt="Image Description" width="350px" height="750px">
+</div>
+
+<div style="display: flex;">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/5.png" alt="Image Description" width="350px" height="750px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/signal-new-clone/Image_N_Rec/6.png" alt="Image Description" width="350px" height="750px">
+</div>
 - Here's the list of commands that can help you move forward with the project
 
 MOST PROMINENT TO BEGIN WITH -> 
