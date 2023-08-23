@@ -1,7 +1,7 @@
 # PROJECT -> SIGNAL CLONE FROM REACT NATIVE & REACT JS
 
 - Here is my Signal Clone Application which is made using React Native, React JS and Firebase! ^_^
-### - 💚📱 This is my SIGNAL CLONE that runs on ANDRID, iOS & WEB !
+### - 💚📱 This is my SIGNAL CLONE that runs on ANDROID, iOS & WEB !
 
 <br>
 <br>
