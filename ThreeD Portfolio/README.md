@@ -1,7 +1,7 @@
 # PROJECT -> ThreeD Portfolio
 
 - Here is my Sixth Project is 3D Portfolio Website that is a Web-App React three fiber, react js
-### - 💚📱 This is my SIGNAL CLONE that runs on ANDROID, iOS & WEB !
+### - 💚📱 This is my ThreeD Portfolio
 
 <br>
 <br>
