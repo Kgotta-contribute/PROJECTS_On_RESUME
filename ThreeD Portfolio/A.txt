@@ -1,0 +1,51 @@
+npm create vite@latest ./ -- --template react
+npm install -D tailwindcss --legacy-peer-deps
+npx tailwindcss init
+npm install --legacy-peer-deps@react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+
+npm install @react-three/fiber --legacy-peer-deps
+npm install @react-three/drei --legacy-peer-deps
+npm install maath --legacy-peer-deps
+npm install react-tilt --legacy-peer-deps
+npm install react-vertical-timeline-component --legacy-peer-deps
+npm install @emailjs/browser --legacy-peer-deps
+npm install framer-motion --legacy-peer-deps
+npm install react-router-dom --legacy-peer-deps
+npm install react-parallax-tilt
+
+
+npm audit fix --force
+npm audit fix --legacy-peer-deps
+
+npm run dev
+
+npm install --legacy-peer-deps -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+npm install --legacy-peer-deps three
+npm install tailwindcss
+
+npm install -g npm
+npm update three react-three-fiber
+npm update react
+npm shrinkwrap
+
+
+npm cache clean --force
+npm cache clean --tmp
+npm cache clean -g
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
