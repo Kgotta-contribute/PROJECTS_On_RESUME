@@ -27,8 +27,7 @@ https://github.com/Kgotta-contribute/VOICE_ASSISTANT_APPLICATION
 </br>
 
 ### - Sixth Project is 3D Portfolio Website that is a Web-App React three fiber, react js
-
 <br>
-<img src="" width="350px" height="750px">
+<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/ThreeD%20Portfolio/1.jpeg" width="750px" height="450px">
 </br>
 
