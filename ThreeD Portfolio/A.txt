@@ -1,51 +1,81 @@
-npm create vite@latest ./ -- --template react
-npm install -D tailwindcss --legacy-peer-deps
-npx tailwindcss init
-npm install --legacy-peer-deps@react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+import numpy as np
+import random
+import math
+from concurrent.futures import ThreadPoolExecutor
+import multiprocessing
+import matplotlib.pyplot as plt
 
-npm install @react-three/fiber --legacy-peer-deps
-npm install @react-three/drei --legacy-peer-deps
-npm install maath --legacy-peer-deps
-npm install react-tilt --legacy-peer-deps
-npm install react-vertical-timeline-component --legacy-peer-deps
-npm install @emailjs/browser --legacy-peer-deps
-npm install framer-motion --legacy-peer-deps
-npm install react-router-dom --legacy-peer-deps
-npm install react-parallax-tilt
+def distance(point1, point2):
+    return math.sqrt(sum((p1 - p2) ** 2 for p1, p2 in zip(point1, point2)))
+
+def kmeans(points, k, max_iterations):
+    num_points, dimensions = len(points), len(points[0])
+
+    # Initialize centroids randomly
+    centroids = [random.choice(points) for _ in range(k)]
+
+    # Main loop for K-means algorithm
+    for iter in range(max_iterations):
+        # Assign each point to the nearest centroid
+        with ThreadPoolExecutor(max_workers=multiprocessing.cpu_count()) as executor:
+            distances = list(executor.map(lambda x: [distance(x, centroid) for centroid in centroids], points))
+        closest_centroids = np.argmin(distances, axis=1)
+
+        # Add a column for cluster assignment
+        points = [point + [0] for point in points]
+
+        for i in range(num_points):
+            points[i][dimensions] = closest_centroids[i]  # Storing the closest centroid index in the last dimension
+
+        # Update centroids based on the assigned points
+        counts = np.bincount(closest_centroids, minlength=k)
+        new_centroids = np.zeros((k, dimensions))
+        for i in range(num_points):
+            cluster = int(points[i][dimensions])  # Retrieve the closest centroid index
+            new_centroids[cluster] += points[i][:dimensions]
+
+        for i in range(k):
+            if counts[i] > 0:
+                centroids[i] = new_centroids[i] / counts[i]
+
+    # Print the final centroids
+    print("Final Centroids:")
+    for centroid in centroids:
+        print(centroid)
+
+    # Visualize the points and centroids
+    points_array = np.array(points)
+    plt.scatter(points_array[:, 0], points_array[:, 1], c=points_array[:, dimensions], cmap='viridis', label='Data')
+    plt.scatter(np.array(centroids)[:, 0], np.array(centroids)[:, 1], marker='*', s=200, c='blue', label='Centroids')
+    plt.title('K-means Clustering')
+    plt.xlabel('X')
+    plt.ylabel('Y')
+    plt.legend()
+    plt.show()
+
+# if __name__ == "__main__":
+#     # Generate more random data points
+#     additional_points = [[9.0, 8.0], [10.0, 7.0], [8.0, 6.0], [2.0, 9.0], [3.0, 8.0]]
+#     points = [[1.0, 2.0], [2.0, 3.0], [8.0, 7.0], [3.0, 4.0], [5.0, 6.0]] + additional_points
+
+#     # Perform K-means clustering
+#     kmeans(points, k=2, max_iterations=100)
+
+if __name__ == "__main__":
+    # Generate some random data points
+    points = [[1.0, 2.0], [2.0, 3.0], [8.0, 7.0], [3.0, 4.0], [5.0, 6.0]]
+
+    # Adding 50 more points
+    additional_points = np.random.rand(50, 2) * 10  # Generating random points between 0 and 10
+    points.extend(additional_points.tolist())
+
+    # Perform K-means clustering
+    kmeans(points, k=2, max_iterations=100)
 
 
-npm audit fix --force
-npm audit fix --legacy-peer-deps
-
-npm run dev
-
-npm install --legacy-peer-deps -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-
-npm install --legacy-peer-deps three
-npm install tailwindcss
-
-npm install -g npm
-npm update three react-three-fiber
-npm update react
-npm shrinkwrap
-
-
-npm cache clean --force
-npm cache clean --tmp
-npm cache clean -g
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+Final Centroids:
+[6.61167355 6.60756147]
+[2.33473761 3.26498072]
