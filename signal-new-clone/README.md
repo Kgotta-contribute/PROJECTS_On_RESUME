@@ -214,9 +214,3 @@ yarn add react-native-screens@3.22.0
 
 ### - THANK YOU !! 😊😉😄😃
 
-
-
-
-
-
-
