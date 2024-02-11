@@ -28,14 +28,10 @@
 <br>
 <div style="display: flex;">
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/FoodBookingApp/Image_rec_here/8.png" alt="Image Description" width="350px" height="750px">
-<img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/FoodBookingApp/Image_rec_here/9.png" alt="Image Description" width="350px" height="750px">
-</div>
-<br>
-<br>
-<div style="display: flex;">
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/FoodBookingApp/Image_rec_here/10.png" alt="Image Description" width="350px" height="750px">
 </div>
 <br>
+
 
 <br>
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/FoodBookingApp/Image_rec_here/gif2.gif" alt="Image Description" style="margin-right: 150px;">
