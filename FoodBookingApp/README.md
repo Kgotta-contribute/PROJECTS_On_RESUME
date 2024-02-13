@@ -37,7 +37,7 @@
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/FoodBookingApp/Image_rec_here/gif2.gif" alt="Image Description" style="margin-right: 150px;">
 </br>
 
-- 
+### Commands to get you started
 
 - npm install -g expo-cli
 - npx create-expo-app DeliApp
