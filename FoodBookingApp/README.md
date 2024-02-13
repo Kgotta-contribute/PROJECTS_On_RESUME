@@ -36,3 +36,18 @@
 <br>
 <img src="https://github.com/Kgotta-contribute/PROJECTS_On_RESUME/blob/main/FoodBookingApp/Image_rec_here/gif2.gif" alt="Image Description" style="margin-right: 150px;">
 </br>
+
+
+<br>
+npm install -g expo-cli
+npx create-expo-app DeliApp
+expo init
+npx expo start
+npx expo install react-native-web@~0.19.6 react-dom@18.2.0 @expo/metro-runtime@~3.1.3
+npm install tailwindcss-react-native
+npm install --save-dev tailwindcss
+npm install @react-navigation/native
+expo install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+npm i react-native-heroicons react-native-svg
+</br>
